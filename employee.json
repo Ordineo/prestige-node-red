@@ -1,0 +1,120 @@
+[{
+    "username": "tyranwyn",
+    "password": "derp",
+    "email": "sammi.fux@ordina.be",
+    "firstName": "Sammi",
+    "lastName": "Fux",
+    "avatar": "https://media.licdn.com/media/AAEAAQAAAAAAAAVgAAAAJDRjNGE2ZWVkLTM3NzEtNDNhZC1hMDdiLTI3NmU4MGU5Mzk0Zg.jpg",
+    "phone": "0469696969",
+    "unit": "JWORKS",
+    "gender": "M",
+    "roles": [
+        "rookie",
+        "admin"
+    ]
+}, {
+    "username": "Nivek",
+    "password": "derp",
+    "email": "kevin.vam.houtte@ordina.be",
+    "firstName": "Kevin",
+    "lastName": "Van Houtte",
+    "avatar": "http://d33v4339jhl8k0.cloudfront.net/docs/assets/528e78fee4b0865bc066be5a/images/52af1e8ce4b074ab9e98f0e0/file-mxuiNezRS5.jpg",
+    "phone": "0469696969",
+    "unit": "JWORKS",
+    "gender": "M",
+    "roles": [
+        "senior"
+    ]
+}, {
+    "username": "Turbots",
+    "password": "derp",
+    "email": "dieter.hubau@ordina.be",
+    "firstName": "Dieter",
+    "lastName": "Hubau",
+    "avatar": "http://d33v4339jhl8k0.cloudfront.net/docs/assets/528e78fee4b0865bc066be5a/images/52af1e8ce4b074ab9e98f0e0/file-mxuiNezRS5.jpg",
+    "phone": "0469696969",
+    "unit": "JWORKS",
+    "gender": "M",
+    "roles": [
+        "senior"
+    ]
+}, {
+    "username": "Gide",
+    "password": "derp",
+    "email": "gina.de.beukelaer@ordina.be",
+    "firstName": "Gina",
+    "lastName": "De Beukelaer",
+    "avatar": "http://d33v4339jhl8k0.cloudfront.net/docs/assets/528e78fee4b0865bc066be5a/images/52af1e8ce4b074ab9e98f0e0/file-mxuiNezRS5.jpg",
+    "phone": "0469696969",
+    "unit": "JWORKS",
+    "gender": "V",
+    "roles": [
+        "senior"
+    ]
+}, {
+    "username": "Rydg",
+    "password": "derp",
+    "email": "ryan.de.gruyter@ordina.be",
+    "firstName": "Ryan",
+    "lastName": "De Gruyter",
+    "avatar": "http://d33v4339jhl8k0.cloudfront.net/docs/assets/528e78fee4b0865bc066be5a/images/52af1e8ce4b074ab9e98f0e0/file-mxuiNezRS5.jpg",
+    "phone": "0469696969",
+    "unit": "JWORKS",
+    "gender": "M",
+    "roles": [
+        "senior"
+    ]
+}, {
+    "username": "Hami",
+    "password": "derp",
+    "email": "hans.michiels@ordina.be",
+    "firstName": "Hans",
+    "lastName": "Michiels",
+    "avatar": "http://d33v4339jhl8k0.cloudfront.net/docs/assets/528e78fee4b0865bc066be5a/images/52af1e8ce4b074ab9e98f0e0/file-mxuiNezRS5.jpg",
+    "phone": "0469696969",
+    "unit": "JWORKS",
+    "gender": "M",
+    "roles": [
+        "senior"
+    ]
+}, {
+    "username": "Jabi",
+    "password": "derp",
+    "email": "jasper.biesmans@ordina.be",
+    "firstName": "Jasper",
+    "lastName": "Biesemans",
+    "avatar": "http://d33v4339jhl8k0.cloudfront.net/docs/assets/528e78fee4b0865bc066be5a/images/52af1e8ce4b074ab9e98f0e0/file-mxuiNezRS5.jpg",
+    "phone": "0469696969",
+    "unit": "JWORKS",
+    "gender": "M",
+    "roles": [
+        "senior"
+    ]
+}, {
+    "username": "Dedu",
+    "password": "derp",
+    "email": "derya.duru@ordina.be",
+    "firstName": "Derya",
+    "lastName": "Duru",
+    "avatar": "http://d33v4339jhl8k0.cloudfront.net/docs/assets/528e78fee4b0865bc066be5a/images/52af1e8ce4b074ab9e98f0e0/file-mxuiNezRS5.jpg",
+    "phone": "0469696969",
+    "unit": "JWORKS",
+    "gender": "V",
+    "roles": [
+        "senior"
+    ]
+}, {
+    "username": "JLEFE1",
+    "password": "derp",
+    "email": "joris.lefever@ordina.be",
+    "firstName": "Joris",
+    "lastName": "Lefever",
+    "avatar": "http://d33v4339jhl8k0.cloudfront.net/docs/assets/528e78fee4b0865bc066be5a/images/52af1e8ce4b074ab9e98f0e0/file-mxuiNezRS5.jpg",
+    "phone": "0469696969",
+    "unit": "JWORKS",
+    "gender": "M",
+    "roles": [
+        "senior",
+        "admin"
+    ]
+}]

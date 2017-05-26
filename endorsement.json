@@ -1,0 +1,44 @@
+[{
+    "granter": "Nivek",
+    "receiver": "Turbots",
+    "categories": [
+        "Presentation",
+        "Briefing"
+    ],
+    "score": 1,
+    "reason": "De presentatie was super duidelijk",
+    "url": "https://www.ordina.be/",
+    "created": "2017-04-06"
+}, {
+    "granter": "Gide",
+    "receiver": "Rydg",
+    "categories": [
+        "Coffee"
+    ],
+    "score": 1,
+    "reason": "Bedankt voor de goede koffie",
+    "url": "https://www.google.be/",
+    "created": "2017-04-06"
+}, {
+    "granter": "tyranwyn",
+    "receiver": "JLEFE1",
+    "categories": [
+        "Email",
+        "Briefing",
+        "Workshop"
+    ],
+    "score": 1,
+    "reason": "Alles rond de workshop was geweldig, veel bijgeleerd!",
+    "url": "https://www.facebook.com/",
+    "created": "2017-04-06"
+}, {
+    "granter": "JLEFE1",
+    "receiver": "Jabi",
+    "categories": [
+        "Email"
+    ],
+    "score": 1,
+    "reason": "Heel gestructureerde email",
+    "url": "https://www.ordina.be/",
+    "created": "2017-04-06"
+}]
